@@ -1,2 +1,4 @@
 # hello-world
-Repositorio de aprendizaje
+Hola hello ciao
+Soy Tezzi espero poder aprender esta vaina jajaja
+trabajaré fuerte
